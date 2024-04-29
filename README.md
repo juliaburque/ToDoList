@@ -26,7 +26,6 @@ Certifique-se de ter um servidor web com suporte a PHP para executar este aplica
 - `style.css`: Arquivo de estilo para personalizar a aparência do aplicativo.
 - `README.md`: Este arquivo, contendo informações sobre o projeto.
 
-## Fontes
 ## Autor
 Desenvolvido por [@nomedodev] 
 
