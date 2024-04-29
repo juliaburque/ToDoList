@@ -1,4 +1,6 @@
 # ToDoList
+![image info](img/Captura.img1.png)
+
 # Gerenciador de Tarefas
 Um simples gerenciador de tarefas em PHP com uso de sessões para armazenar e exibir tarefas cadastradas pelo usuário.
 
@@ -24,6 +26,7 @@ Certifique-se de ter um servidor web com suporte a PHP para executar este aplica
 - `style.css`: Arquivo de estilo para personalizar a aparência do aplicativo.
 - `README.md`: Este arquivo, contendo informações sobre o projeto.
 
+## Fontes
 ## Autor
 Desenvolvido por [@nomedodev] 
 
